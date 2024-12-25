@@ -39,7 +39,7 @@ Welcome to the download repository for **PSP-Renamer**, a versatile tool designe
 - Currently, PSP-Renamer only supports Windows. Cross-platform support may be considered in the future.
 
 ## Download
-The latest version of PSP-Renamer is available for download [here](#).
+The latest version of PSP-Renamer is available for download [here](https://github.com/kys0ff/PSP-Renamer/releases/tag/v1.0.0).
 
 ---
 For feedback or questions, feel free to reach out to the developer.
